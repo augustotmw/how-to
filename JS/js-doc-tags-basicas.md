@@ -35,11 +35,14 @@
  * @param {number} [time=1] param with default value
  * @returns {string} Describes the return value of the function or method. Either type or description can be omitted.
  * @throws {object} Describes an exception that might be thrown during the execution of the function or method. Either type or description can be omitted.
- * 
+ * @fires <className>#[event:]<eventName> Indicates that a method can fire a specified type of event when it is called
  * 
  * Variables, Parameters, and Instance Properties:
  * 
+ * @name namePath variable name
  * @type {typeName} variable type
+ * @member {typeName} variableName
+ * @var {typeName} variableName
  * @constant variableName indicates variable's content is a constant
  * @property {boolean} flagName Document an instance property in the constructor comment
  * @default defaultValue default value of a parameter or instance property
