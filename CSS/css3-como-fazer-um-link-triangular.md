@@ -2,6 +2,12 @@
 
 **Autor:** Augusto TMW
 
+### Referências:
+
+* (https://stackoverflow.com/questions/25917610/triangular-link-area)
+
+
+
 1. Crie um elemento que irá conter o link, como por exemplo, uma *"div"*:
 
 ```html
@@ -49,7 +55,3 @@ a{
 
 }
 ```
-
-### Referências:
-
-* (https://stackoverflow.com/questions/25917610/triangular-link-area)
