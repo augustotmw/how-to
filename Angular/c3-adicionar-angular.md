@@ -22,7 +22,7 @@ angular-cli.json
           "options": {
             ...
             "styles": [
-              "../node_modules/c3/c3.min.css",
+              "node_modules/c3/c3.min.css",
               "src/styles.css"
             ]
             ...
@@ -35,7 +35,7 @@ angular-cli.json
           "options": {
             ...
             "styles": [
-              "../node_modules/c3/c3.min.css",
+              "node_modules/c3/c3.min.css",
               "src/styles.css"
             ],
             ...
